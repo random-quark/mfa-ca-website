@@ -104,7 +104,7 @@ CMA Electives to choose from:
 <section id="skills" class="content-section">
 
 ## SKILLS YOU'LL GAIN
-Through intensive studio practice, technical training, and critical engagement, you’ll develop a versatile skill set that blends artistic creativity with technological fluency. You will gain: 
+Through intensive studio practice, technical training, and critical engagement, you'll develop a versatile skill set that blends artistic creativity with technological fluency. You will gain: 
 <br><br>
 * Proficiency in creative coding, generative art, and interactive media 
 * Hands-on experience with 3D animation, VR/AR, game engines, and digital fabrication 
@@ -146,7 +146,7 @@ Whether you want to build an independent artistic practice, collaborate with tec
 <section id="admissions" class="content-section">
 
 ## ADMISSIONS
-To be eligible for the MFA in Computational Arts at HKUST(GZ), applicants must meet the university’s [general admission requirements.](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements) 
+To be eligible for the MFA in Computational Arts at HKUST(GZ), applicants must meet the university's [general admission requirements.](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements) 
 <br><br>
 In addition, applicants must submit a portfolio of creative work (PDF or website link) as part of their application. 
 <br><br>
@@ -321,7 +321,7 @@ Our faculty consists of practicing artists, researchers, and technologists who a
 
 ## ABOUT CMA
 
-The Computational Media and Arts (CMA) Thrust at HKUST(GZ) is an interdisciplinary research and teaching unit that explores the intersection of art, technology, and design. Drawing on the university’s strengths in science and engineering, CMA bridges creative practice with computational thinking to address the cultural and technological challenges of our time. 
+The Computational Media and Arts (CMA) Thrust at HKUST(GZ) is an interdisciplinary research and teaching unit that explores the intersection of art, technology, and design. Drawing on the university's strengths in science and engineering, CMA bridges creative practice with computational thinking to address the cultural and technological challenges of our time. 
 
 Faculty and students work across a wide spectrum of fields—including creative coding, AI art, VR/AR, digital fabrication, sound and electronic media, and interactive storytelling—producing work that spans both artistic innovation and technical rigor. CMA is home to internationally recognized scholars, artists, and creative technologists, and fosters a vibrant, collaborative environment for experimentation, critical inquiry, and public engagement. 
 
