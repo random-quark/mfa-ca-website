@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or "MFA: Computational Arts" }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="floating-nav" id="floating-nav">
+        <ul class="nav-menu">
+            <li><a href="#overview" class="nav-link">Overview</a></li>
+            <li><a href="#what-is-cma" class="nav-link">What is Computational Arts?</a></li>
+            <li><a href="#curriculum" class="nav-link">Curriculum</a></li>
+            <li><a href="#skills" class="nav-link">Skills you'll gain</a></li>
+            <li><a href="#career-paths" class="nav-link">Where this degree can take you</a></li>
+            <li><a href="#admissions" class="nav-link">Admissions</a></li>
+            <li><a href="#fees" class="nav-link">Fees</a></li>
+            <li><a href="#important-dates" class="nav-link">Important Dates</a></li>
+            <li><a href="#faculty" class="nav-link">Faculty</a></li>
+            <li><a href="#about-cma" class="nav-link">About CMA</a></li>
+            <li><a href="#contact" class="nav-link">Contact us</a></li>
+        </ul>
+    </nav>
+
+    <main class="main-content">
+        <header class="page-header">
+            <div class="header-content">
+                <h1>MFA Computational Arts</h1>
+            </div>
+        </header>
+
+        {{ content | safe }}
+    </main>
+
+    <script src="/js/script.js"></script>
+</body>
+</html> 

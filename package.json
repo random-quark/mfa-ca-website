@@ -1,0 +1,23 @@
+{
+  "name": "mfa-computational-arts-website",
+  "version": "1.0.0",
+  "description": "MFA in Computational Arts Program Website",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "dev": "eleventy --serve --watch"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^14.1.0"
+  },
+  "keywords": [
+    "eleventy",
+    "mfa",
+    "computational-arts",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT"
+}
