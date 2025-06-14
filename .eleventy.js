@@ -20,6 +20,7 @@ module.exports = function(eleventyConfig) {
       input: "src",
       output: "_site"
     },
+    pathPrefix: "/mfa-ca-website/",
     markdownTemplateEngine: "njk"
   };
 }; 
